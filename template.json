@@ -1,38 +1,33 @@
 {
-    "Actor": {
-        "types": [
-            "PlayerCharacter"
-        ],
-
-        "PlayerCharacter": {
-            "race": "Elf",
-            "Gender": "Male",
-            "age": "25",
-            "height": "100",
-            "weight": "200"
-        }
-        },
-
-    "Item": {
-
-        "types":[
-            "Item"
-        ],
-
-        "templates": {
-            "generalItems": {
-                "weight": 10,
-                "value": 100,
-                "description": ""
-            }
-        },
-
-        "Item": {
-            "templates": [
-                "generalItems"
-            ],
-            "type": "Item",
-            "quantity": 1
-        }
+  "Actor": {
+    "types": [
+      "PlayerCharacter"
+    ],
+    "PlayerCharacter": {
+      "race": "Elf",
+      "Gender": "Male",
+      "age": "25",
+      "height": "100",
+      "weight": "200"
     }
+  },
+  "Item": {
+    "types": [
+      "Item"
+    ],
+    "templates": {
+      "generalItems": {
+        "weight": 10,
+        "value": 100,
+        "description": ""
+      }
+    },
+    "Item": {
+      "templates": [
+        "generalItems"
+      ],
+      "type": "Item",
+      "quantity": 1
+    }
+  }
 }
