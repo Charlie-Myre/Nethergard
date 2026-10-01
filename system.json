@@ -27,7 +27,7 @@
   },
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
-  "url": "https://github.com/Charlie-Myre/Nethergard",
-  "manifest": "https://raw.githubusercontent.com/Charlie-Myre/Nethergard/refs/heads/main/system.json",
-  "download": "https://your/packaged/download/archive.zip"
+  "url": "https://raw.githubusercontent.com/Charlie-Myre/Nethergard",
+  "manifest": "https://raw.githubusercontent.com/Charlie-Myre/Nethergard/refs/tags/0.0.1/system.json",
+  "download": "https://github.com/Charlie-Myre/Nethergard/archive/refs/tags/0.0.1.zip"
 }
