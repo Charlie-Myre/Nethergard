@@ -1,0 +1,33 @@
+{
+  "id": "nether",
+  "title": "Nethergard Core System",
+  "description": "The Core System for Nethergard created by Charlie.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 14,
+    "verified": 14.361
+  },
+  "authors": [{
+    "name": "me",
+    "url": "YOUR WEBSITE ADDRESS HERE",
+    "email": "YOUR EMAIL ADDRESS HERE",
+    "discord": "YOUR DISCORD USERNAME HERE"
+  }],
+  "esmodules": ["nether.js"],
+  "styles": ["nether.css"],
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  }],
+  "socket": false,
+  "grid": {
+    "distance": 1,
+    "units": "Meter"
+  },
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
+  "url": "https://github.com/Charlie-Myre/Nethergard",
+  "manifest": "https://github.com/Charlie-Myre/Nethergard/blob/main/system.json",
+  "download": "https://your/packaged/download/archive.zip"
+}
