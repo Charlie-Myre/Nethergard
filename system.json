@@ -28,6 +28,6 @@
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/Charlie-Myre/Nethergard",
-  "manifest": "https://github.com/Charlie-Myre/Nethergard/blob/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/Charlie-Myre/Nethergard/refs/heads/main/system.json",
   "download": "https://your/packaged/download/archive.zip"
 }
