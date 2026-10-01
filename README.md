@@ -1,5 +1,5 @@
-# Foundrydnd
-Attempt to make dnd in foundry
+# Foundry Nethergard
+Attempt to make Nethergard in foundry
 
 
 I honestly have no idea what I am doing here
